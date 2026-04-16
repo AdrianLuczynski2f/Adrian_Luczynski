@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Adrian_Luczynski",
+    "slug": "adrian-luczynski",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.adrian.luczynski",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
