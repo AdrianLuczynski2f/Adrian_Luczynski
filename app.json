@@ -8,6 +8,15 @@
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
       }
+    },
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "abb2e006-9988-4cb3-a701-e4ef29b6b04d"
+      }
     }
   }
 }
